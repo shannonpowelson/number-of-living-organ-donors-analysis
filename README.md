@@ -6,15 +6,21 @@ For this anlaysis, the number of living organ donors is being examined.  [Living
 _Can we predict the number of living organ donors based on age and gender?_
 ## Data Sources
 1. Living Donors in the US by Donor Age
+
 https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/Living_Donors_Recovered_in_the_U.S._by_Donor_Age.xlsm
+
 This data set contains the number of living donors in each age group for each year.  It also contains the total number of living donors for each year.  This data was downloaded from the Organ Procurement and Transplantation Network.    
 
 2. Living Donors in the US by Donor Gender
+
 https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/Living_Donors_Recovered_in_the_U.S._by_Donor_Gender.xlsm
+
 This data set contains the number of living donors for each gender for each year.  It also contains the total number of living donors for each year.  This data was downloaded from the Organ Procurement and Transplantation Network.   
 
 3. Living Donor Data
+
 https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/Living%20Donor%20Data.xlsm
+
 This file contains the compiled living donor age and gender data.  It also contains the simple linear regression graphs, the multiple linear regression data, and two tables that were made for visualization purposes.  
 
 ## Data Analysis
