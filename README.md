@@ -28,7 +28,8 @@ I first conducted simple linear regressions for each of the indepdent variables 
 
 
 
-These are some key results from out multiple linear regression.  
+These are some key results from out multiple linear regression.
+![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/MultipleLR-ResultsTable.png)
 
 
 
