@@ -14,7 +14,9 @@ _Can we predict the number of living organ donors based on age and gender?_
 I first conducted simple linear regressions for each of the indepdent variables in order to explore the association between the independent variable and the total number of living donors (our dependent variable).  The following plots show the simple linear regression plots for the total number of living donors vs each independent variable.  The graph also contains the least squares line, the R-Squared value, and the linear trendline.   
 
 ![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/SimpleLR-%3C1.png)
-The least squares line shown in this graph is y = 667.56x + 4979.9.  The interpretation of this line is that an increase of 1 in the number of living donors aged less than one is associated with an increase of 667.56 total living donors.  This interpretation format can be referenced for the least squares lines for the following graphs.  
+
+The least squares line shown in this graph is y = 667.56x + 4979.9.  The interpretation of this line is that an increase of 1 in the number of living donors aged less than one is associated with an increase of 667.56 total living donors.  This interpretation format can be referenced for the least squares lines for the following graphs. 
+
 ![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/SimpleLR-1-5.png)
 ![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/SimpleLR-6-10.png)
 ![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/SimpleLR-11-17.png)
