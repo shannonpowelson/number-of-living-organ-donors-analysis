@@ -9,6 +9,11 @@ _Can we predict the number of living organ donors based on age and gender?_
 
 ## Data Analysis
 
+## _Simple Linear Regression_
+
+
+## _Multiple Linear Regression_
+
 
 ## Summary
 This is important for marketing 
