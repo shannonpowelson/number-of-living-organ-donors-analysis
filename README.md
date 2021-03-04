@@ -24,6 +24,8 @@ I first conducted simple linear regressions for each of the indepdent variables 
 ![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/SimpleLR-male.png)
 ![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/SimpleLR-Female.png)
 
+![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/R-Squared.png)
+
 ### _Multiple Linear Regression_
 
 
