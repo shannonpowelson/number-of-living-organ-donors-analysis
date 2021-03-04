@@ -35,12 +35,12 @@ In the simple linear regression for the number of living donors less than 1 year
 
 ### _Multiple Linear Regression_
 
+I then conducted a multiple linear regression to see the combined association of each of these independent variables with the total number of living donors.  
 
-
-These are some key results from out multiple linear regression.
+These are some key results from our multiple linear regression.
 ![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/MultipleLR-ResultsTable.png)
 
-
+The coefficients tell us how an independent variables is associated with the total number of living donors and the p-value tells us the probability that the association is not by chance.  If the p-value is less than 0.05, then it is statistically significant and we have evidence to suggest that the association exists.  
 
 
 ## Summary
