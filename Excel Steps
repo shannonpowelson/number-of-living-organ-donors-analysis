@@ -1,0 +1,6 @@
+After I downloaded the raw data, I used the transpose function to convert the data from rows to columns.
+Then, I used VLOOKUP to add the gender columns to the spreadsheet with the age data.  The key value was the Date (which was the year), the table-array was the data in the gender spreadsheet, the col_index_num was the column of the gender data that I was importing, and the [range_lookup] was zero since I want an exact match.
+Now that all of the data was in the same spreadsheet, I performed a simple linear regression for each of the independent variables.  I selected the data column for the total number of living donors and for the independent variable.  I inserted a scatterplot and had to made sure that the total number of living donors was the y variable and the independent variable was the x.  Then I inserted a linear trendline and displayed the least squares line and the R-Squared value on the chart.  
+I used the R-Squared value for each independent variable to make a pivot table to display for better data visualization.  
+Then I conducted the multiple linear regression.  I clicked on the data analysis button and selected regression.  I chose my independent and dependent variables.  
+For better data visualization, I made a pivot table with the independent variable, p-value, coefficient, and standard error.  
