@@ -24,6 +24,8 @@ I first conducted simple linear regressions for each of the indepdent variables 
 ![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/SimpleLR-male.png)
 ![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/SimpleLR-Female.png)
 
+In the above graphs, it is clear that some independent variables have a stronger linear association with the number of living donors than others.  This is evident by how closely the data points follow the linear trendline.  In the table below, there is a list of the R-Squared value for the simple linear regression of each of the independent variables.  The R-Squared value tells us the proportion of the variance in the number of living donors that be explained by the independent variable.  It ultimately tells us how well the data fits the linear regression line and thus how certain we are of the association between the number of living donors and the independent variable.  
+
 ![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/R-Squared.png)
 
 ### _Multiple Linear Regression_
