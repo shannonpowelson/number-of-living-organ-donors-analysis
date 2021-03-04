@@ -14,6 +14,15 @@ _Can we predict the number of living organ donors based on age and gender?_
 I first conducted simple linear regressions for each of the indepdent variables in order to explore the association between the independent variable and the total number of living donors (our dependent variable).  The following plots show the simple linear regression plots for the total number of living donors vs each independent variable.  The graph also contains the least squares line, the R-Squared value, and the linear trendline.   
 
 ![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/SimpleLR-%3C1.png)
+![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/SimpleLR-1-5.png)
+![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/SimpleLR-6-10.png)
+![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/SimpleLR-11-17.png)
+![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/SimpleLR-18-34.png)
+![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/SimpleLR-35-49.png)
+![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/SimpleLR-50-64.png)
+![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/SimpleLR-65.png)
+![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/SimpleLR-male.png)
+![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/SimpleLR-Female.png)
 
 ### _Multiple Linear Regression_
 
