@@ -28,6 +28,8 @@ In the above graphs, it is clear that some independent variables have a stronger
 
 ![alt text](https://github.com/shannonpowelson/number-of-living-organ-donors-analysis/blob/main/R-Squared.png)
 
+In the simple linear regression for the number of living donors less than 1 years old and the number of living donors 1-5 years old, 1.29% and 0.06% of the data fits the linear regression models.  Therefore, we are almost uncertain of an association between these age groups and the total number of living donors.  For 11-17 year olds, 16.82% of the data fits the linear regression model.  This certainty level rises dramatically for the 18-34 year olds group since 77.85% of the data fits the linear regression model.  Out of all of the age group independent variables, we are most certain of an association between the 35-49 year old age group and the total number of living donors since 78.87% of the data fits the linear regression model.  For age groups after this, the R-Squared values go back down and thus we become less certain of the association.  For 50-64 year olds, 50.38% of the data fits the linear regression model and for people older than 65, 3.88% of the data fits the linear regression model.  The 35-49 year old age group data therefore fits the linear regression model the best and we are most certain of the association between this age group and the number of living donors than we are for the other age groups. This would be interesting to investigate in future research.  For gender groups, 98.77% of the data for females fits the linear regression model, while 96.66% of the data for males fits the linear regression model.  
+
 ### _Multiple Linear Regression_
 
 
